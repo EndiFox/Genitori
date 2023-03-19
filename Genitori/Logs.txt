@@ -1,0 +1,620 @@
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.45586 0.5 0.2 ]
+Data of player: 
+[100 3 3.7 108 ]
+
+57.8176
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.315508 0.5 0.2 ]
+Data of player: 
+[100 3 3.6 108 ]
+
+54.3465
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.5107 0.5 0.2 ]
+Data of player: 
+[100 3 3.5 108 ]
+
+57.8821
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.931677 0.5 0.2 ]
+Data of player: 
+[100 3 3.4 108 ]
+
+56.095
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.14789 0.5 0.2 ]
+Data of player: 
+[100 3 3.3 108 ]
+
+56.6937
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.66638 0.5 0.2 ]
+Data of player: 
+[100 3 3.2 108 ]
+
+58.1991
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.05286 0.5 0.2 ]
+Data of player: 
+[100 3 3.1 108 ]
+
+56.3086
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.0620897 0.5 0.2 ]
+Data of player: 
+[100 3 3 108 ]
+
+53.2863
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.35144 0.5 0.2 ]
+Data of player: 
+[100 3 2.9 108 ]
+
+57.1043
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.01607 0.5 0.2 ]
+Data of player: 
+[100 3 2.8 108 ]
+
+56.0482
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.149562 0.5 0.2 ]
+Data of player: 
+[100 3 2.7 108 ]
+
+53.3987
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.315293 0.5 0.2 ]
+Data of player: 
+[100 3 2.6 108 ]
+
+53.8459
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.652103 0.5 0.2 ]
+Data of player: 
+[100 3 2.5 108 ]
+
+54.8063
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.0474789 0.5 0.2 ]
+Data of player: 
+[100 3 2.4 108 ]
+
+52.9424
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.38352 0.5 0.2 ]
+Data of player: 
+[100 3 2.3 108 ]
+
+56.9006
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.39063 0.5 0.2 ]
+Data of player: 
+[100 3 2.2 108 ]
+
+56.8719
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.711854 0.5 0.2 ]
+Data of player: 
+[100 3 2.1 108 ]
+
+54.7856
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.881173 0.5 0.2 ]
+Data of player: 
+[100 3 2 108 ]
+
+55.2435
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.0976935 0.5 0.2 ]
+Data of player: 
+[100 3 1.9 108 ]
+
+52.8431
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.35116 0.5 0.2 ]
+Data of player: 
+[100 3 1.8 108 ]
+
+56.5535
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.31779 0.5 0.2 ]
+Data of player: 
+[100 3 1.7 108 ]
+
+53.4034
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.28421 0.5 0.2 ]
+Data of player: 
+[100 3 1.6 108 ]
+
+56.2526
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.23557 0.5 0.2 ]
+Data of player: 
+[100 3 1.5 108 ]
+
+53.0567
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.42817 0.5 0.2 ]
+Data of player: 
+[100 3 1.4 108 ]
+
+56.5845
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.24709 0.5 0.2 ]
+Data of player: 
+[100 3 1.3 108 ]
+
+55.9913
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.55472 0.5 0.2 ]
+Data of player: 
+[100 3 1.2 108 ]
+
+56.8642
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.851549 0.5 0.2 ]
+Data of player: 
+[100 3 1.1 108 ]
+
+54.7047
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.46802 0.5 0.2 ]
+Data of player: 
+[100 3 1 108 ]
+
+56.5041
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.33942 0.5 0.2 ]
+Data of player: 
+[100 3 0.900003 108 ]
+
+56.0683
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.604343 0.5 0.2 ]
+Data of player: 
+[100 3 0.800003 108 ]
+
+53.813
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.21294 0.5 0.2 ]
+Data of player: 
+[100 3 0.700003 108 ]
+
+55.5888
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.9612 0.5 0.2 ]
+Data of player: 
+[100 3 0.600003 108 ]
+
+57.7836
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.438427 0.5 0.2 ]
+Data of player: 
+[100 3 0.500003 108 ]
+
+53.1653
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.5839 0.5 0.2 ]
+Data of player: 
+[100 3 0.400003 108 ]
+
+56.5517
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.11516 0.5 0.2 ]
+Data of player: 
+[100 3 0.300003 108 ]
+
+55.0955
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.88852 0.5 0.2 ]
+Data of player: 
+[100 3 0.200003 108 ]
+
+57.3656
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.82396 0.5 0.2 ]
+Data of player: 
+[100 3 0.100003 108 ]
+
+57.1219
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.318027 0.5 0.2 ]
+Data of player: 
+[100 3 2.51979e-06 108 ]
+
+52.5541
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.92351 0.5 0.2 ]
+Data of player: 
+[100 3 -0.0999975 108 ]
+
+57.3205
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 0.329023 0.5 0.2 ]
+Data of player: 
+[99 3 0 107 ]
+
+52.0871
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.46133 0.5 0.2 ]
+Data of player: 
+[98 3 0 106 ]
+
+54.984
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.72514 0.5 0.2 ]
+Data of player: 
+[97 3 0 105 ]
+
+55.2754
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.03849 0.5 0.2 ]
+Data of player: 
+[96 3 0 104 ]
+
+52.7155
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.56093 0.5 0.2 ]
+Data of player: 
+[95 3 0 103 ]
+
+53.7828
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.06375 0.5 0.2 ]
+Data of player: 
+[94 3 0 102 ]
+
+51.7913
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.20454 0.5 0.2 ]
+Data of player: 
+[93 3 0 101 ]
+
+51.7136
+
+Sun Mar 19 18:25:10 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.893525 0.5 0.2 ]
+Data of player: 
+[92 3 0 100 ]
+
+50.2806
+
+Sun Mar 19 18:25:10 2023
+
+spawning Blast
+Data of weights:
+[0.3 1.48397 0.5 0.2 ]
+Data of player: 
+[91 3 0 99 ]
+
+51.5519
+
+Sun Mar 19 18:25:10 2023
+
+spawning Beast
+Data of weights: 
+[0.3 1.02376 0.5 0.2 ]
+Data of player: 
+[90 3 0 98 ]
+
+49.6713
+
+Sun Mar 19 18:25:10 2023
+
+spawning Beast
+Data of weights: 
+[0.3 1.0841 0.5 0.2 ]
+Data of player: 
+[89 3 0 97 ]
+
+49.3523
+
+Sun Mar 19 18:25:10 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.0888391 0.5 0.2 ]
+Data of player: 
+[88 3 0 96 ]
+
+45.8665
+
+Sun Mar 19 18:25:10 2023
+
+spawning Beast
+Data of weights: 
+[0.3 1.63418 0.5 0.2 ]
+Data of player: 
+[87 3 0 95 ]
+
+50.0025
+
+Sun Mar 19 18:25:10 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.992931 0.5 0.2 ]
+Data of player: 
+[86 3 0 94 ]
+
+47.5788
+
+Sun Mar 19 18:25:10 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.739136 0.5 0.2 ]
+Data of player: 
+[85 3 0 93 ]
+
+46.3174
+
+Sun Mar 19 18:25:10 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.801849 0.5 0.2 ]
+Data of player: 
+[84 3 0 92 ]
+1184 0.5 0.2 ]
+Data of player: 
+[84 3 0 92 ]
+
+44.8355
+
+Sun Mar 19 18:24:40 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.497008 0.5 0.2 ]
+Data of player: 
+[83 3 0 91 ]
+
+44.591
+
+Sun Mar 19 18:24:40 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.126521 0.5 0.2 ]
+Data of player: 
+[82 3 0 90 ]
+
+42.9796
+
+Sun Mar 19 18:24:40 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.0610084 0.5 0.2 ]
+Data of player: 
+[81 3 0 89 ]
+
+42.283
+
+Sun Mar 19 18:24:40 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.0717019 0.5 0.2 ]
+Data of player: 
+[80 3 0 88 ]
+
+41.8151
+
+Sun Mar 19 18:24:40 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.471934 0.5 0.2 ]
+Data of player: 
+[79 3 0 87 ]
+
+42.5158
+
+Sun Mar 19 18:24:40 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.360229 0.5 0.2 ]
+Data of player: 
+[78 3 0 86 ]
+
+41.6807
+
+Sun Mar 19 18:24:40 2023
+
+spawning Beast
+Data of weights: 
+[0.3 0.286943 0.5 0.2 ]
+Data of player: 
+[77 3 0 85 ]
